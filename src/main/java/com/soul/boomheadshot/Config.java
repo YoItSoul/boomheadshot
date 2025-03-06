@@ -1,4 +1,4 @@
-package com.soul;
+package com.soul.boomheadshot;
 
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

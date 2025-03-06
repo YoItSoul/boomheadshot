@@ -1,4 +1,4 @@
-package com.soul;
+package com.soul.boomheadshot;
 
 import net.minecraft.core.particles.ParticleTypes;
 import net.minecraft.core.registries.BuiltInRegistries;

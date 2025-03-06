@@ -1,4 +1,4 @@
-package com.soul;
+package com.soul.boomheadshot;
 
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
